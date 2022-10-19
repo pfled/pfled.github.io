@@ -56,8 +56,18 @@ a {
   text-decoration: none;
   transition: 0.2s;
 }
+
 a:hover {
   color: #a89789;
+}
+
+#digital-clock {
+  color: #959882;
+  display: inline;
+  font-size: 66%;
+  font-weight: normal;
+  text-align: left;
+  width: 400px;
 }
 
 /*# sourceMappingURL=style.css.map */
