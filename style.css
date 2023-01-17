@@ -6,7 +6,7 @@ ul {
 }
 
 body {
-  background: #1b283c;
+  background: #392529;
   height: 100%;
   width: 100%;
 }
@@ -22,7 +22,7 @@ main {
 }
 
 h1 {
-  color: #7f798e;
+  color: #bab7c0;
   display: block;
   margin: 0 auto;
   text-align: left;
@@ -31,7 +31,7 @@ h1 {
 
 hr {
   border: 0;
-  border-top: 1px solid #d3bca5;
+  border-top: 1px solid #9dd8f6;
   opacity: 0.4;
   width: 400px;
 }
@@ -43,7 +43,7 @@ ul {
 }
 
 li {
-  color: #c4ac9d;
+  color: #b1e0ea;
   display: inline-block;
   font-size: 1.2em;
   line-height: 1.5;
@@ -52,12 +52,12 @@ li {
 }
 
 a {
-  color: #9f9bb1;
+  color: #a7bfdc;
   text-decoration: none;
   transition: 0.2s;
 }
 a:hover {
-  color: #928392;
+  color: #96a8ad;
 }
 
 /*# sourceMappingURL=style.css.map */
